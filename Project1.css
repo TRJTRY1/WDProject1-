@@ -1,0 +1,54 @@
+body 
+{
+	font-size: 100%;
+	font-family:sans-serif;
+	font-size: 1em;  
+	text-align: center;
+}
+#container 
+{
+	text-align: center;
+	border-radius: 8px;
+	background-color: rgba(237,221,158,.8);
+	margin: auto;
+	width: 80%;
+}
+#banner 
+{	
+	margin: auto;
+	height: 140px;
+	clear: both;
+}
+#footer 
+{
+	font-size: .8em; 
+	height: 120px;
+	clear: both;
+}
+.panel
+{
+	display:inline-block;
+	border-width: 100px;
+	border-radius: 8px;
+	
+	background-color: blue;
+	height: 140px;
+	width: 140px;
+}
+
+.thick 
+{
+	font-weight: bold;
+}
+
+.back
+{
+	background-image: url("imgs/mainbackground.jpeg");
+}
+
+.empty
+{
+	color: black;
+}
+
+
