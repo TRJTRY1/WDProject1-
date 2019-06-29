@@ -1,0 +1,19 @@
+body{
+	background-color: #659DBD;
+	font-family: simplifica;
+	background-image: url("Beer3.jpg");
+	background-repeat:no-repeat;
+	background-size: 1400px 800px;
+	color: white;
+	
+	
+}
+.step1{
+	padding-top: 180px;
+}
+
+.selection{
+	font-size: 20px;
+	
+
+}
