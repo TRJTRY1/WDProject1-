@@ -28,7 +28,13 @@ body{
 }
 
 
-
+#navigation
+{
+	margin: auto;
+	clear: both;
+	width: 80%;
+	border-radius: 8px;
+}
 .button{
   display: inline-block;
   *display: inline;
@@ -48,4 +54,28 @@ body{
 .button::-moz-focus-inner{
   border: 0;
   padding: 0;
+}
+button.nav
+{
+	background-color: #4CAF50;
+	
+	border: none;
+	border-radius: 8px;
+	color: white;
+	padding: 20px;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+}
+button.nav:hover 
+{
+	background-color: black;
+	border-radius: 8px;
+	border-color: black;
+	border: 10px;
+	color: white;
+	padding: 20px;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
 }
