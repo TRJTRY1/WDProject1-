@@ -5,15 +5,14 @@ body{
 	background-repeat:no-repeat;
 	background-size: 1400px 800px;
 	color: white;
-	
-	
 }
+
 .step1{
 	padding-top: 180px;
+	font-size: 45px;
 }
 
 .selection{
-	font-size: 20px;
+	font-size: 25px;
 	
-
 }
