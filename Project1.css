@@ -1,0 +1,96 @@
+body{
+	background-color: #659DBD;
+	font-family: simplifica;
+	background-image: url("Banner2.jpg");
+	background-repeat:no-repeat;
+	background-size: 1400px 750px;
+	color: black;
+	text-align: center;
+#column{
+	background-image: url("");
+}	
+	
+}
+body.prod{
+	background-image: url("Banner2.jpg");
+	text-align: center;
+}
+body.prod1{
+	background-image: url("BannerBeer.jpg");
+}
+heading {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+#all2{
+	background-image: url("BannerBeer.jpg");
+	width: 100px;
+	background-position: bottom;
+
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+#navigation
+{
+	margin: auto;
+	clear: both;
+	width: 80%;
+	border-radius: 8px;
+}
+.sidenav{
+	padding-top: 180px;
+	padding-left: 250px;
+}
+
+.selection{
+	font-size: 20px;
+
+}
+#navigation
+{
+	margin: auto;
+	clear: both;
+	width: 80%;
+	border-radius: 8px;
+}
+
+button
+{
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 8px;
+	color: white;
+	padding: 20px;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+}
+button:hover 
+{
+	background-color: black;
+	border-radius: 8px;
+	border-color: black;
+	border: 10px;
+	color: white;
+	padding: 20px;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+}

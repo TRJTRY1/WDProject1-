@@ -1,0 +1,50 @@
+
+
+<!DOCTYPE html> 
+<html lang="en">
+<body class= "prod">
+<div class="all1">
+	<head>  
+
+		<link rel= "stylesheet" href="Project1.css">
+
+		<title>Best Beers Around Atlanta</title>  
+		<h1 class="heading">
+			Atlanta Attractions
+		</h1>
+		<h2 class="heading "></h2>
+	</head>  
+
+	
+
+		
+			<div id="navigation">
+			<button class= "nav" onclick= "window.location.href = 'Image1.html';">Step-1</button>
+		</div>
+	
+		
+	</div>
+</body>
+<body class= "prod1">
+	
+	
+
+	<div class="row">
+  <div class="column">
+    <img src="Image1.jpg" alt="Snow" style="width:80%">
+    <p>help</p>
+
+    <p></p>
+
+  </div>
+  <div class="column">
+    <img src="Beer2.jpg" alt="Forest" style="width:80%">
+  </div>
+  <div class="column">
+    <img src="Beer3.jpg" alt="Mountains" style="width:80%">
+  </div>
+</div>
+
+
+</body>  
+</html>
